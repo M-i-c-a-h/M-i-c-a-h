@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-i-c-a-h
+- 👋 Hi, I’m M-i-c-a-h
 - 👀 I’m interested in programming, soccer, fintech, AI, religion (Christianity) in no particular order
 - 🌱 I’m currently learning how to become a better programmer
 - 💞️ I’m looking to collaborate on projects and open source
