@@ -3,7 +3,7 @@
 - 🌱 I’m currently on my journey to becoming a Sofware Engineer
 - 💞️ I’m looking to collaborate on projects and open-source projects for developmental purposes
 - 📫 How to reach me Linkedin www.linkedin.com/in/oreoluwa-olugbamila-micah | Github https://github.com/M-i-c-a-h
--                  | Devpost https://devpost.com/M-i-c-a-h 
+| Devpost https://devpost.com/M-i-c-a-h 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a twin
 
