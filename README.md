@@ -5,6 +5,7 @@
 ## - 😄 Pronouns: he/him/his
 ## - ⚡ Fun fact: I have a twin
 ## - 📫 How to reach me 
+- Website: www.micaholug.com
 - Linkedin: www.linkedin.com/in/oreoluwa-olugbamila-micah
 - Mail: aolugbamila@gmail.com
 - Discord: [micaholugbamila_21034](https://discordapp.com/users/1143581894848557064)
