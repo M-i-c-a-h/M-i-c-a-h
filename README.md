@@ -9,8 +9,6 @@
 - Linkedin: www.linkedin.com/in/oreoluwa-olugbamila-micah
 - Mail: aolugbamila@gmail.com
 - Discord: [micaholugbamila_21034](https://discordapp.com/users/1143581894848557064)
-- Github: https://github.com/M-i-c-a-h 
-- Devpost: https://devpost.com/M-i-c-a-h 
 
 
 <!---
