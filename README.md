@@ -1,6 +1,4 @@
-## - 👋 Hi, I’m M-i-c-a-h
-## - 👀 I’m interested in programming, soccer, fintech, AI, fitness in no particular order
-## - 🌱 I’m currently on my journey to becoming a Sofware Engineer
+## - 👋 Hi, I’m M-i-c-a-h, a Sofware Engineer
 ## - 💞️ I’m looking to collaborate on projects and open-source projects for developmental purposes
 ## - 😄 Pronouns: he/him/his
 ## - ⚡ Fun fact: I have a twin
